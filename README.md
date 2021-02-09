@@ -9,3 +9,5 @@ Click on account ->
 Click on security tab in the top left corner->
 Scroll till you see the box "Less secure app access"->
 Click on it and make sure "Allow less secure apps:" is turned ON
+
+**Pyinstaller was used to make this python script into an exe**
