@@ -11,3 +11,6 @@ Scroll till you see the box "Less secure app access"->
 Click on it and make sure "Allow less secure apps:" is turned ON
 
 **Pyinstaller was used to make this python script into an exe**
+
+# Current Bugs/todo Fix List
+If a user runs the exe the email function of the program will not execute
